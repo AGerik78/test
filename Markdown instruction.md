@@ -141,7 +141,11 @@ id sem consectetuer libero luctus adipiscing.
 ***
 
 
-## Ссылки
+### Ссылки
+
+* Это встроенная [ссылка с title элементом](http://example.com/link "Я ссылка").
+
+* Это — [без title](http://example.com/link).
 
 ## Команды
 
