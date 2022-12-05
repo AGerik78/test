@@ -134,6 +134,11 @@ id sem consectetuer libero luctus adipiscing.
 
 ``There is a literal backtick (`) here.``
 
+### Горизонтальная черта
+
+`hr` создается тремя звездочками или тремя дефисами.
+
+***
 
 
 ## Ссылки
